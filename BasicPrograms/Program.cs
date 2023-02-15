@@ -9,6 +9,7 @@ namespace BasicPrograms
             Console.WriteLine("C# Basic Programs");
 
             Coin.FlipCoin();
+            CheckLeapYear.Leap();
 
             Console.ReadLine();
         }
