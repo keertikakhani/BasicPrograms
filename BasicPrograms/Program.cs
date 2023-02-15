@@ -15,6 +15,7 @@ namespace BasicPrograms
             PrimeFactors.Prime();
             QuotientAndRemainder.QuotientRemainder();
             SwapNumbers.Swap();
+            EvenOdd.Check();
 
             Console.ReadLine();
         }
