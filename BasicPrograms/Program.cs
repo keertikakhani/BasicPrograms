@@ -14,6 +14,7 @@ namespace BasicPrograms
             HarmonicNumber.Harmonic();
             PrimeFactors.Prime();
             QuotientAndRemainder.QuotientRemainder();
+            SwapNumbers.Swap();
 
             Console.ReadLine();
         }
