@@ -17,6 +17,7 @@ namespace BasicPrograms
             SwapNumbers.Swap();
             EvenOdd.Check();
             VowelOrConsonant.CheckChararcter();
+            LargestNumber.Maximum();
 
             Console.ReadLine();
         }
