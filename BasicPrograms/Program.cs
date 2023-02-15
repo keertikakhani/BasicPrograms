@@ -12,6 +12,7 @@ namespace BasicPrograms
             CheckLeapYear.Leap();
             PowerOf2.Power();
             HarmonicNumber.Harmonic();
+            PrimeFactors.Prime();
 
             Console.ReadLine();
         }
