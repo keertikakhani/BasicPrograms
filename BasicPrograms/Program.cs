@@ -13,6 +13,7 @@ namespace BasicPrograms
             PowerOf2.Power();
             HarmonicNumber.Harmonic();
             PrimeFactors.Prime();
+            QuotientAndRemainder.QuotientRemainder();
 
             Console.ReadLine();
         }
