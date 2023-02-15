@@ -11,6 +11,7 @@ namespace BasicPrograms
             Coin.FlipCoin();
             CheckLeapYear.Leap();
             PowerOf2.Power();
+            HarmonicNumber.Harmonic();
 
             Console.ReadLine();
         }
