@@ -16,6 +16,7 @@ namespace BasicPrograms
             QuotientAndRemainder.QuotientRemainder();
             SwapNumbers.Swap();
             EvenOdd.Check();
+            VowelOrConsonant.CheckChararcter();
 
             Console.ReadLine();
         }
