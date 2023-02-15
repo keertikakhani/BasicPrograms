@@ -7,6 +7,9 @@ namespace BasicPrograms
         public static void Main(string[] args)
         {
             Console.WriteLine("C# Basic Programs");
+
+            Coin.FlipCoin();
+
             Console.ReadLine();
         }
     }
